@@ -3,7 +3,7 @@ body {
   font-family: Times, "Times New Roman", serif;
   line-height: 1.4em;
   margin: 10px 40px 10px 40px;
-  width: 700px;
+
 }
 
 h1, h2 {
@@ -95,9 +95,9 @@ body p a:visited { color: #333333; }
   padding-left: 80px;
 
   margin: 30px;
-  /**
-  margin-right: 250px;
-  **/
+
+  margin-right: 50%;
+
 
   background-image: url(images/background.gif);
   background-repeat:no-repeat;
@@ -126,6 +126,7 @@ body p a:visited { color: #333333; }
 }
 
 .xx{
+
   border-width: thin;
   border-style: solid;
   border-color: #ff0000;
@@ -143,10 +144,35 @@ body p a:visited { color: #333333; }
 
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  float:right;
 }
-.cd{
+.c1{
   font-style: italic;
 }
-.artist{
+.a1{
+  font-weight: bold;
+}
+.c2{
+  font-style: italic;
+}
+.a2{
+  font-weight: bold;
+}
+.c3{
+  font-style: italic;
+}
+.a3{
+  font-weight: bold;
+}
+.c4{
+  font-style: italic;
+}
+.a4{
+  font-weight: bold;
+}
+.c5{
+  font-style: italic;
+}
+.a5{
   font-weight: bold;
 }
